@@ -1,0 +1,36 @@
+body{
+    font-family: 'Spline Sans', sans-serif;
+    margin: 0;
+}
+.card{
+    
+    text-align: center;
+    font-weight: bold;
+    padding: 16px;
+}
+.card_presentacion{
+    text-align: center;
+    padding: 12px;
+}
+.section{
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+}
+.card_links{
+    margin-top: 50px;
+
+}
+.lista{
+    margin-top: 16px;
+    text-transform: uppercase;
+}
+.section_links{
+    
+    margin-right: 80px;
+}
+/*.section_education{
+    font-size: 36px;
+    font-weight: 700;
+}*/
